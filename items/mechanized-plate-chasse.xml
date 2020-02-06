@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><wowhead><item id="168979"><name><![CDATA[Mechanized Plate Chasse]]></name><level>580</level><quality id="4">Epic</quality><class id="4"><![CDATA[Armor]]></class><subclass id="4"><![CDATA[Plate Armor]]></subclass><icon displayId="170434">inv_chest_plate_kultirasdungeon_c_01</icon><inventorySlot id="5">Chest</inventorySlot><htmlTooltip><![CDATA[<table><tr><td><!--nstart--><b class="q4">Mechanized Plate Chasse</b><!--nend--><!--ndstart--><br /><span><span style="color: #00FF00">Relinquished</span> <span style="color: #00FF00">Warforged</span> <span style="color: #00FF00">Titanforged</span></span><!--ndend--><span class="q"><br>Item Level <!--ilvl-->580</span><br /><!--bo-->Binds when picked up<table width="100%"><tr><td>Chest</td><th><!--scstart4:4--><span class="q1">Plate</span><!--scend--></th></tr></table><span><!--amr-->3257 Armor</span><br><span><!--stat74-->+3,844 [Strength or Intellect]</span><br><span><!--stat7-->+8,142 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 165 / 165<br /><br>
+<span class="q">Active Azerite Powers (0/5): </span>
+<table><tbody>
+        <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0"><a href="https://www.wowhead.com/spell=263978/azerite-empowered">Azerite Empowered</a> is available.</td>
+        </tr>
+        </tbody></table>
+<br>
+</td></tr></table><table><tr><td><!--itemEffects:0-->Requires Level <!--rlvl-->120</td></tr></table>]]></htmlTooltip><json><![CDATA["appearances":{"1":[170434,""],"3":[170435,""]},"armor":845,"bonustrees":[2563,1530],"classs":4,"displayid":170434,"flags2":24576,"id":168979,"level":415,"name":"Mechanized Plate Chasse","quality":4,"reqlevel":120,"slot":5,"slotbak":5,"source":[2,5],"sourcemore":[{"z":10225},{"n":"Thaumaturge Vashreen","t":1,"ti":149045}],"specs":[73,65,66,250,251,252,70,71,72],"subclass":4]]></json><jsonEquip><![CDATA["appearances":{"1":[170434,""],"3":[170435,""]},"armor":3257,"displayid":170434,"dura":165,"int":3844,"reqlevel":120,"slotbak":5,"sta":8142,"str":3844,"strint":3844]]></jsonEquip><link>https://www.wowhead.com/item=168979</link></item></wowhead>

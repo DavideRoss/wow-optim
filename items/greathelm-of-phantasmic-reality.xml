@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><wowhead><item id="174167"><name><![CDATA[Greathelm of Phantasmic Reality]]></name><level>605</level><quality id="4">Epic</quality><class id="4"><![CDATA[Armor]]></class><subclass id="4"><![CDATA[Plate Armor]]></subclass><icon displayId="181429">inv_helm_plate_nzothraid_d_01</icon><inventorySlot id="1">Head</inventorySlot><htmlTooltip><![CDATA[<table><tr><td><!--nstart--><b class="q4">Greathelm of Phantasmic Reality</b><!--nend--><!--ndstart--><br /><span><span style="color: #00FF00">Relinquished</span> <span style="color: #00FF00">Warforged</span> <span style="color: #00FF00">Titanforged</span></span><!--ndend--><span class="q"><br>Item Level <!--ilvl-->605</span><br /><!--bo-->Binds when picked up<table width="100%"><tr><td>Head</td><th><!--scstart4:4--><span class="q1">Plate</span><!--scend--></th></tr></table><span><!--amr-->3301 Armor</span><br><span><!--stat74-->+4,852 [Strength or Intellect]</span><br><span><!--stat7-->+10,277 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100<br /><br>
+<span class="q">Active Azerite Powers (0/5): </span>
+<table><tbody>
+        <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0"><a href="https://www.wowhead.com/spell=263978/azerite-empowered">Azerite Empowered</a> is available.</td>
+        </tr>
+        </tbody></table>
+<br>
+</td></tr></table><table><tr><td><!--itemEffects:0-->Requires Level <!--rlvl-->120<div class="whtt-extra whtt-droppedby">Dropped by: N'Zoth the Corruptor</div></td></tr></table>]]></htmlTooltip><json><![CDATA["appearances":{"0":[181429,""],"1":[181428,""],"3":[181433,"inv_helm_plate_nzothraidmythic_d_01"],"4":[181431,""]},"armor":827,"bonustrees":[2838,2767],"classs":4,"displayid":181429,"flags2":24576,"id":174167,"level":440,"name":"Greathelm of Phantasmic Reality","quality":4,"reqlevel":120,"slot":1,"slotbak":1,"source":[2],"sourcemore":[{"bd":1,"n":"N'Zoth the Corruptor","t":1,"ti":158041,"z":10522}],"specs":[73,65,66,250,251,252,70,71,72],"subclass":4]]></json><jsonEquip><![CDATA["appearances":{"0":[181429,""],"1":[181428,""],"3":[181433,"inv_helm_plate_nzothraidmythic_d_01"],"4":[181431,""]},"armor":3301,"displayid":181429,"dura":100,"int":4852,"reqlevel":120,"slotbak":1,"sta":10277,"str":4852,"strint":4852]]></jsonEquip><link>https://www.wowhead.com/item=174167</link></item></wowhead>

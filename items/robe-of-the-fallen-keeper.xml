@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><wowhead><item id="174115"><name><![CDATA[Robe of the Fallen Keeper]]></name><level>595</level><quality id="4">Epic</quality><class id="4"><![CDATA[Armor]]></class><subclass id="1"><![CDATA[Cloth Armor]]></subclass><icon displayId="181213">inv_chest_cloth_nzothraid_d_01</icon><inventorySlot id="5">Chest</inventorySlot><htmlTooltip><![CDATA[<table><tr><td><!--nstart--><b class="q4">Robe of the Fallen Keeper</b><!--nend--><!--ndstart--><br /><span><span style="color: #00FF00">Relinquished</span> <span style="color: #00FF00">Warforged</span> <span style="color: #00FF00">Titanforged</span></span><!--ndend--><span class="q"><br>Item Level <!--ilvl-->595</span><br /><!--bo-->Binds when picked up<table width="100%"><tr><td>Chest</td><th><!--scstart4:1--><span class="q1">Cloth</span><!--scend--></th></tr></table><span><!--amr-->1000 Armor</span><br><span><!--stat5-->+4,420 Intellect</span><br><span><!--stat7-->+9,363 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 165 / 165<br /><br>
+<span class="q">Active Azerite Powers (0/5): </span>
+<table><tbody>
+        <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0"><a href="https://www.wowhead.com/spell=263978/azerite-empowered">Azerite Empowered</a> is available.</td>
+        </tr>
+        </tbody></table>
+<br>
+</td></tr></table><table><tr><td><!--itemEffects:0-->Requires Level <!--rlvl-->120</td></tr></table>]]></htmlTooltip><json><![CDATA["appearances":{"0":[181213,""],"1":[181214,""],"3":[180818,"inv_chest_cloth_nzothraidmythic_d_01"],"4":[181212,""]},"armor":254,"bonustrees":[2748,2767],"classs":4,"displayid":181213,"flags2":24576,"id":174115,"level":430,"name":"Robe of the Fallen Keeper","quality":4,"reqlevel":120,"slot":5,"slotbak":20,"source":[2],"sourcemore":[{"z":10522}],"specs":[64,256,63,62,257,265,258,266,267],"subclass":1]]></json><jsonEquip><![CDATA["appearances":{"0":[181213,""],"1":[181214,""],"3":[180818,"inv_chest_cloth_nzothraidmythic_d_01"],"4":[181212,""]},"armor":1000,"displayid":181213,"dura":165,"int":4420,"reqlevel":120,"slotbak":20,"sta":9363]]></jsonEquip><link>https://www.wowhead.com/item=174115</link></item></wowhead>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><wowhead><item id="174168"><name><![CDATA[Carapace of Pulsing Vita]]></name><level>595</level><quality id="4">Epic</quality><class id="4"><![CDATA[Armor]]></class><subclass id="4"><![CDATA[Plate Armor]]></subclass><icon displayId="181439">inv_chest_plate_nzothraid_d_01</icon><inventorySlot id="5">Chest</inventorySlot><htmlTooltip><![CDATA[<table><tr><td><!--nstart--><b class="q4">Carapace of Pulsing Vita</b><!--nend--><!--ndstart--><br /><span><span style="color: #00FF00">Relinquished</span> <span style="color: #00FF00">Warforged</span> <span style="color: #00FF00">Titanforged</span></span><!--ndend--><span class="q"><br>Item Level <!--ilvl-->595</span><br /><!--bo-->Binds when picked up<table width="100%"><tr><td>Chest</td><th><!--scstart4:4--><span class="q1">Plate</span><!--scend--></th></tr></table><span><!--amr-->3718 Armor</span><br><span><!--stat74-->+4,420 [Strength or Intellect]</span><br><span><!--stat7-->+9,363 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 165 / 165<br /><br>
+<span class="q">Active Azerite Powers (0/5): </span>
+<table><tbody>
+        <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0"><a href="https://www.wowhead.com/spell=263978/azerite-empowered">Azerite Empowered</a> is available.</td>
+        </tr>
+        </tbody></table>
+<br>
+</td></tr></table><table><tr><td><!--itemEffects:0-->Requires Level <!--rlvl-->120</td></tr></table>]]></htmlTooltip><json><![CDATA["appearances":{"0":[181439,""],"1":[181438,""],"3":[181142,"inv_chest_plate_nzothraidmythic_d_01"],"4":[181441,""]},"armor":944,"bonustrees":[2748,2767],"classs":4,"displayid":181439,"flags2":24576,"id":174168,"level":430,"name":"Carapace of Pulsing Vita","quality":4,"reqlevel":120,"slot":5,"slotbak":5,"source":[2],"sourcemore":[{"z":10522}],"specs":[73,65,66,250,251,252,70,71,72],"subclass":4]]></json><jsonEquip><![CDATA["appearances":{"0":[181439,""],"1":[181438,""],"3":[181142,"inv_chest_plate_nzothraidmythic_d_01"],"4":[181441,""]},"armor":3718,"displayid":181439,"dura":165,"int":4420,"reqlevel":120,"slotbak":5,"sta":9363,"str":4420,"strint":4420]]></jsonEquip><link>https://www.wowhead.com/item=174168</link></item></wowhead>

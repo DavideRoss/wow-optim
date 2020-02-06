@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><wowhead><item id="168987"><name><![CDATA[Shoulderguards of Fraying Sanity]]></name><level>580</level><quality id="4">Epic</quality><class id="4"><![CDATA[Armor]]></class><subclass id="1"><![CDATA[Cloth Armor]]></subclass><icon displayId="171225">inv_shoulder_cloth_kultirasdungeon_c_01</icon><inventorySlot id="3">Shoulder</inventorySlot><htmlTooltip><![CDATA[<table><tr><td><!--nstart--><b class="q4">Shoulderguards of Fraying Sanity</b><!--nend--><!--ndstart--><br /><span><span style="color: #00FF00">Relinquished</span> <span style="color: #00FF00">Warforged</span> <span style="color: #00FF00">Titanforged</span></span><!--ndend--><span class="q"><br>Item Level <!--ilvl-->580</span><br /><!--bo-->Binds when picked up<table width="100%"><tr><td>Shoulder</td><th><!--scstart4:1--><span class="q1">Cloth</span><!--scend--></th></tr></table><span><!--amr-->657 Armor</span><br><span><!--stat5-->+2,883 Intellect</span><br><span><!--stat7-->+6,107 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100<br /><br>
+<span class="q">Active Azerite Powers (0/5): </span>
+<table><tbody>
+        <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0"><a href="https://www.wowhead.com/spell=263978/azerite-empowered">Azerite Empowered</a> is available.</td>
+        </tr>
+        </tbody></table>
+<br>
+</td></tr></table><table><tr><td><!--itemEffects:0-->Requires Level <!--rlvl-->120</td></tr></table>]]></htmlTooltip><json><![CDATA["appearances":{"1":[171225,""],"3":[170597,""]},"armor":170,"bonustrees":[2563,1530],"classs":4,"displayid":171225,"flags2":24576,"id":168987,"level":415,"name":"Shoulderguards of Fraying Sanity","quality":4,"reqlevel":120,"slot":3,"slotbak":3,"source":[2,5],"sourcemore":[{"z":10225},{"n":"Thaumaturge Vashreen","t":1,"ti":149045}],"specs":[64,256,63,62,257,265,258,266,267],"subclass":1]]></json><jsonEquip><![CDATA["appearances":{"1":[171225,""],"3":[170597,""]},"armor":657,"displayid":171225,"dura":100,"int":2883,"reqlevel":120,"slotbak":3,"sta":6107]]></jsonEquip><link>https://www.wowhead.com/item=168987</link></item></wowhead>

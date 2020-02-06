@@ -1,0 +1,652 @@
+{
+    "8": [
+        {
+            "item": "Boots of Hallucinatory Reality",
+            "link": "https://www.wowhead.com/item=174173&bonus=1637",
+            "instance": "Ny'alotha, the Waking City",
+            "weight": 7405.27
+        },
+        {
+            "item": "Greaves of Acid Resistance",
+            "link": "https://www.wowhead.com/item=169055&bonus=1637",
+            "instance": "Operation: Mechagon",
+            "weight": 6532.370000000001
+        },
+        {
+            "item": "Sabatons of Malevolent Intent",
+            "link": "https://www.wowhead.com/item=174176&bonus=1637",
+            "instance": "Ny'alotha, the Waking City",
+            "weight": 6236.91
+        },
+        {
+            "item": "Pyroclastic Greatboots",
+            "link": "https://www.wowhead.com/item=168972&bonus=1637",
+            "instance": "Operation: Mechagon",
+            "weight": 5395.320000000001
+        },
+        {
+            "item": "Fluorescent Flora Stompers",
+            "link": "https://www.wowhead.com/item=159436&bonus=1637",
+            "instance": "The Underrot",
+            "weight": 2939.61
+        },
+        {
+            "item": "Stormsurger's Sabatons",
+            "link": "https://www.wowhead.com/item=159420&bonus=1637",
+            "instance": "Shrine of the Storm",
+            "weight": 2932.0699999999997
+        },
+        {
+            "item": "Fatty Hooves of Gory Comfort",
+            "link": "https://www.wowhead.com/item=159452&bonus=1637",
+            "instance": "Waycrest Manor",
+            "weight": 2901.8900000000003
+        },
+        {
+            "item": "Ballast Sinkers",
+            "link": "https://www.wowhead.com/item=159428&bonus=1637",
+            "instance": "Siege of Boralus",
+            "weight": 2385.13
+        },
+        {
+            "item": "Auric Puddle Stompers",
+            "link": "https://www.wowhead.com/item=159412&bonus=1637",
+            "instance": "Kings' Rest",
+            "weight": 2339.37
+        },
+        {
+            "item": "Embellished Ritual Sabatons",
+            "link": "https://www.wowhead.com/item=155861&bonus=1637",
+            "instance": "Atal'Dazar",
+            "weight": 2131.8500000000004
+        },
+        {
+            "item": "Gunpowder-Scoured Sabatons",
+            "link": "https://www.wowhead.com/item=159444&bonus=1637",
+            "instance": "Tol Dagor",
+            "weight": 2105.01
+        }
+    ],
+    "1": [
+        {
+            "item": "Greathelm of Phantasmic Reality",
+            "link": "https://www.wowhead.com/item=174167&bonus=1637",
+            "instance": "Ny'alotha, the Waking City",
+            "weight": 14410.44
+        },
+        {
+            "item": "Second Sight Helm",
+            "link": "https://www.wowhead.com/item=174163&bonus=1637",
+            "instance": "Ny'alotha, the Waking City",
+            "weight": 13127.400000000001
+        },
+        {
+            "item": "Apogee Inventor's Goggles",
+            "link": "https://www.wowhead.com/item=169003&bonus=1637",
+            "instance": "Operation: Mechagon",
+            "weight": 11416.68
+        },
+        {
+            "item": "Soulspun Casque",
+            "link": "https://www.wowhead.com/item=155866&bonus=1637",
+            "instance": "Atal'Dazar",
+            "weight": 3908.5200000000004
+        },
+        {
+            "item": "Overseer's Riot Helmet",
+            "link": "https://www.wowhead.com/item=159414&bonus=1637",
+            "instance": "Tol Dagor",
+            "weight": 3908.5200000000004
+        },
+        {
+            "item": "Greathelm of the Putrid Path",
+            "link": "https://www.wowhead.com/item=159446&bonus=1637",
+            "instance": "The Underrot",
+            "weight": 3908.5200000000004
+        },
+        {
+            "item": "Helm of the Raptor King",
+            "link": "https://www.wowhead.com/item=159422&bonus=1637",
+            "instance": "Kings' Rest",
+            "weight": 3908.5200000000004
+        },
+        {
+            "item": "Sea-Brawler's Greathelm",
+            "link": "https://www.wowhead.com/item=155885&bonus=1637",
+            "instance": "Freehold",
+            "weight": 3908.5200000000004
+        },
+        {
+            "item": "Helm of Abyssal Malevolence",
+            "link": "https://www.wowhead.com/item=159430&bonus=1637",
+            "instance": "Shrine of the Storm",
+            "weight": 3908.5200000000004
+        }
+    ],
+    "7": [
+        {
+            "item": "Reality-Defying Greaves",
+            "link": "https://www.wowhead.com/item=174175&bonus=1637",
+            "instance": "Ny'alotha, the Waking City",
+            "weight": 9862.240000000002
+        },
+        {
+            "item": "Anodized Plate Legguards",
+            "link": "https://www.wowhead.com/item=169051&bonus=1637",
+            "instance": "Operation: Mechagon",
+            "weight": 8777.33
+        },
+        {
+            "item": "Heavy Alloy Legplates",
+            "link": "https://www.wowhead.com/item=168966&bonus=1637",
+            "instance": "Operation: Mechagon",
+            "weight": 8720.61
+        },
+        {
+            "item": "Living Obsidian Legguards",
+            "link": "https://www.wowhead.com/item=174172&bonus=1637",
+            "instance": "Ny'alotha, the Waking City",
+            "weight": 8306.480000000001
+        },
+        {
+            "item": "Legplates of Beaten Gold",
+            "link": "https://www.wowhead.com/item=158313&bonus=1637",
+            "instance": "Atal'Dazar",
+            "weight": 3928.7200000000003
+        },
+        {
+            "item": "Sharkwater Waders",
+            "link": "https://www.wowhead.com/item=158361&bonus=1637",
+            "instance": "Freehold",
+            "weight": 3910.9900000000007
+        },
+        {
+            "item": "Legplates of the Maritime Guard",
+            "link": "https://www.wowhead.com/item=159411&bonus=1637",
+            "instance": "Siege of Boralus",
+            "weight": 3872.4100000000003
+        },
+        {
+            "item": "Legplates of the Irontide Raider",
+            "link": "https://www.wowhead.com/item=159427&bonus=1637",
+            "instance": "Siege of Boralus",
+            "weight": 3872.4100000000003
+        },
+        {
+            "item": "Legplates of Charged Duality",
+            "link": "https://www.wowhead.com/item=159435&bonus=1637",
+            "instance": "Temple of Sethraliss",
+            "weight": 3199.1400000000003
+        },
+        {
+            "item": "Legplates of Profane Sacrifice",
+            "link": "https://www.wowhead.com/item=159443&bonus=1637",
+            "instance": "The Underrot",
+            "weight": 3140.84
+        },
+        {
+            "item": "Petrified Wickerplate Greaves",
+            "link": "https://www.wowhead.com/item=159456&bonus=1637",
+            "instance": "Waycrest Manor",
+            "weight": 2893.0400000000004
+        },
+        {
+            "item": "Ironhull's Reinforced Legplates",
+            "link": "https://www.wowhead.com/item=159419&bonus=1637",
+            "instance": "Shrine of the Storm",
+            "weight": 2846.1800000000003
+        }
+    ],
+    "10": [
+        {
+            "item": "Gauntlets of Nightmare Manifest",
+            "link": "https://www.wowhead.com/item=175006&bonus=1637",
+            "instance": "Ny'alotha, the Waking City",
+            "weight": 7403.2300000000005
+        },
+        {
+            "item": "Mirage-Weaver's Gauntlets",
+            "link": "https://www.wowhead.com/item=174178&bonus=1637",
+            "instance": "Ny'alotha, the Waking City",
+            "weight": 6953.08
+        },
+        {
+            "item": "High Speed Gauntlets",
+            "link": "https://www.wowhead.com/item=169063&bonus=1637",
+            "instance": "Operation: Mechagon",
+            "weight": 6605.530000000001
+        },
+        {
+            "item": "Gauntlets of Foul Inquisition",
+            "link": "https://www.wowhead.com/item=174169&bonus=1637",
+            "instance": "Ny'alotha, the Waking City",
+            "weight": 6429.96
+        },
+        {
+            "item": "Gauntlets of Absolute Authority",
+            "link": "https://www.wowhead.com/item=168980&bonus=1637",
+            "instance": "Operation: Mechagon",
+            "weight": 5499.55
+        },
+        {
+            "item": "Gauntlets of Total Subservience",
+            "link": "https://www.wowhead.com/item=159421&bonus=1637",
+            "instance": "Shrine of the Storm",
+            "weight": 2948.71
+        },
+        {
+            "item": "Fangproof Gauntlets",
+            "link": "https://www.wowhead.com/item=159437&bonus=1637",
+            "instance": "Temple of Sethraliss",
+            "weight": 2943.7799999999997
+        },
+        {
+            "item": "Sharktooth-Knuckled Grips",
+            "link": "https://www.wowhead.com/item=155890&bonus=1637",
+            "instance": "Freehold",
+            "weight": 2935.2700000000004
+        },
+        {
+            "item": "Grips of the Everlasting Guardian",
+            "link": "https://www.wowhead.com/item=159445&bonus=1637",
+            "instance": "Atal'Dazar",
+            "weight": 2926.29
+        },
+        {
+            "item": "Gauntlets of the Avian Sentinel",
+            "link": "https://www.wowhead.com/item=159413&bonus=1637",
+            "instance": "Kings' Rest",
+            "weight": 2454.91
+        },
+        {
+            "item": "Risen Lord's Oversized Gauntlets",
+            "link": "https://www.wowhead.com/item=159457&bonus=1637",
+            "instance": "Waycrest Manor",
+            "weight": 2311.4700000000003
+        },
+        {
+            "item": "Rope-Scored Gauntlets",
+            "link": "https://www.wowhead.com/item=159429&bonus=1637",
+            "instance": "Siege of Boralus",
+            "weight": 2048.3
+        }
+    ],
+    "13": [
+        {
+            "item": "Lurker's Piercing Gaze",
+            "link": "https://www.wowhead.com/item=174109&bonus=1637",
+            "instance": "Ny'alotha, the Waking City",
+            "weight": 5316.51
+        },
+        {
+            "item": "Gift of the Void",
+            "link": "https://www.wowhead.com/item=172194&bonus=1637",
+            "instance": "Ny'alotha, the Waking City",
+            "weight": 4371.540000000001
+        },
+        {
+            "item": "Fusion Hacker",
+            "link": "https://www.wowhead.com/item=168963&bonus=1637",
+            "instance": "Operation: Mechagon",
+            "weight": 3002.67
+        },
+        {
+            "item": "Adulation Enforcer",
+            "link": "https://www.wowhead.com/item=159632&bonus=1637",
+            "instance": "Atal'Dazar",
+            "weight": 1962.3000000000002
+        },
+        {
+            "item": "Sharkbait's Fishhook",
+            "link": "https://www.wowhead.com/item=159633&bonus=1637",
+            "instance": "Freehold",
+            "weight": 1568.88
+        },
+        {
+            "item": "Cudgel of Correctional Oversight",
+            "link": "https://www.wowhead.com/item=159658&bonus=1637",
+            "instance": "Tol Dagor",
+            "weight": 1556.77
+        },
+        {
+            "item": "Vorzz Yoq'al",
+            "link": "https://www.wowhead.com/item=172196&bonus=1637",
+            "instance": "Ny'alotha, the Waking City",
+            "weight": 1460.16
+        },
+        {
+            "item": "Electrifying Cognitive Amplifier",
+            "link": "https://www.wowhead.com/item=168955&bonus=1637",
+            "instance": "Operation: Mechagon",
+            "weight": 1406.5
+        },
+        {
+            "item": "Servant Splitter",
+            "link": "https://www.wowhead.com/item=159660&bonus=1637",
+            "instance": "Waycrest Manor",
+            "weight": 1027.6200000000001
+        },
+        {
+            "item": "Galvanized Stormcrusher",
+            "link": "https://www.wowhead.com/item=158369&bonus=1637",
+            "instance": "Temple of Sethraliss",
+            "weight": 934.36
+        },
+        {
+            "item": "Soulcharmer's Bludgeon",
+            "link": "https://www.wowhead.com/item=159661&bonus=1637",
+            "instance": "Waycrest Manor",
+            "weight": 926.0400000000001
+        },
+        {
+            "item": "Boarder's Billy Club",
+            "link": "https://www.wowhead.com/item=159973&bonus=1637",
+            "instance": "Siege of Boralus",
+            "weight": 908.83
+        },
+        {
+            "item": "Bainbridge's Blackjack",
+            "link": "https://www.wowhead.com/item=159648&bonus=1637",
+            "instance": "Siege of Boralus",
+            "weight": 908.6200000000001
+        },
+        {
+            "item": "Cranial Recalibrator",
+            "link": "https://www.wowhead.com/item=169052&bonus=1637",
+            "instance": "Operation: Mechagon",
+            "weight": 608.22
+        },
+        {
+            "item": "Mar'kowa, the Mindpiercer",
+            "link": "https://www.wowhead.com/item=172198&bonus=1637",
+            "instance": "Ny'alotha, the Waking City",
+            "weight": 591.48
+        },
+        {
+            "item": "Warmace of Waking Nightmares",
+            "link": "https://www.wowhead.com/item=172186&bonus=1637",
+            "instance": "Ny'alotha, the Waking City",
+            "weight": 572.3000000000001
+        },
+        {
+            "item": "Headcracker of Supplication",
+            "link": "https://www.wowhead.com/item=159645&bonus=1637",
+            "instance": "Kings' Rest",
+            "weight": 529.15
+        },
+        {
+            "item": "Leaxa's Thought-Piercer",
+            "link": "https://www.wowhead.com/item=159652&bonus=1637",
+            "instance": "The Underrot",
+            "weight": 507.40000000000003
+        },
+        {
+            "item": "Salvaged Incendiary Tool",
+            "link": "https://www.wowhead.com/item=169058&bonus=1637",
+            "instance": "Operation: Mechagon",
+            "weight": 0.0
+        }
+    ],
+    "9": [
+        {
+            "item": "Dragonbone Vambraces",
+            "link": "https://www.wowhead.com/item=174170&bonus=1637",
+            "instance": "Ny'alotha, the Waking City",
+            "weight": 5529.610000000001
+        },
+        {
+            "item": "Bracers of Phantom Pains",
+            "link": "https://www.wowhead.com/item=174177&bonus=1637",
+            "instance": "Ny'alotha, the Waking City",
+            "weight": 4644.88
+        },
+        {
+            "item": "Anodized Deflectors",
+            "link": "https://www.wowhead.com/item=168978&bonus=1637",
+            "instance": "Operation: Mechagon",
+            "weight": 3376.8900000000003
+        },
+        {
+            "item": "Shard-Tipped Vambraces",
+            "link": "https://www.wowhead.com/item=159425&bonus=1637",
+            "instance": "Temple of Sethraliss",
+            "weight": 2203.76
+        },
+        {
+            "item": "Soulwarped Vambraces",
+            "link": "https://www.wowhead.com/item=159449&bonus=1637",
+            "instance": "Waycrest Manor",
+            "weight": 2200.05
+        },
+        {
+            "item": "Valyri's Fire-Proof Bracers",
+            "link": "https://www.wowhead.com/item=159441&bonus=1637",
+            "instance": "Tol Dagor",
+            "weight": 2178.6800000000003
+        },
+        {
+            "item": "Concealed Fencing Plates",
+            "link": "https://www.wowhead.com/item=158311&bonus=1637",
+            "instance": "Freehold",
+            "weight": 1800.0000000000002
+        },
+        {
+            "item": "Phosphorescent Armplates",
+            "link": "https://www.wowhead.com/item=159433&bonus=1637",
+            "instance": "The Underrot",
+            "weight": 1603.9
+        },
+        {
+            "item": "Embalmer's Steadying Bracers",
+            "link": "https://www.wowhead.com/item=159409&bonus=1637",
+            "instance": "Kings' Rest",
+            "weight": 1583.1000000000001
+        },
+        {
+            "item": "Shadowshroud Vambraces",
+            "link": "https://www.wowhead.com/item=160212&bonus=1637",
+            "instance": "Atal'Dazar",
+            "weight": 1493.1000000000001
+        }
+    ],
+    "6": [
+        {
+            "item": "Belt of Muttering Truths",
+            "link": "https://www.wowhead.com/item=174174&bonus=1637",
+            "instance": "Ny'alotha, the Waking City",
+            "weight": 6051.2
+        },
+        {
+            "item": "Dark Crystalline Girdle",
+            "link": "https://www.wowhead.com/item=174171&bonus=1637",
+            "instance": "Ny'alotha, the Waking City",
+            "weight": 5991.39
+        },
+        {
+            "item": "Well-Oiled Plate Girdle",
+            "link": "https://www.wowhead.com/item=169057&bonus=1637",
+            "instance": "Operation: Mechagon",
+            "weight": 5599.92
+        },
+        {
+            "item": "Automatic Waist Tightener",
+            "link": "https://www.wowhead.com/item=168976&bonus=1637",
+            "instance": "Operation: Mechagon",
+            "weight": 5599.81
+        },
+        {
+            "item": "Sharkbait Harness Girdle",
+            "link": "https://www.wowhead.com/item=158360&bonus=1637",
+            "instance": "Freehold",
+            "weight": 2957.0299999999997
+        },
+        {
+            "item": "Girdle of Pestilent Purification",
+            "link": "https://www.wowhead.com/item=159418&bonus=1637",
+            "instance": "Kings' Rest",
+            "weight": 2951.0
+        },
+        {
+            "item": "Girdle of Burgeoning Apathy",
+            "link": "https://www.wowhead.com/item=159450&bonus=1637",
+            "instance": "Waycrest Manor",
+            "weight": 2935.2700000000004
+        },
+        {
+            "item": "Sand-Scoured Greatbelt",
+            "link": "https://www.wowhead.com/item=159442&bonus=1637",
+            "instance": "Temple of Sethraliss",
+            "weight": 2902.04
+        },
+        {
+            "item": "Zancha's Venerated Greatbelt",
+            "link": "https://www.wowhead.com/item=159410&bonus=1637",
+            "instance": "The Underrot",
+            "weight": 2895.8900000000003
+        },
+        {
+            "item": "Belt of the Unrelenting Gale",
+            "link": "https://www.wowhead.com/item=159426&bonus=1637",
+            "instance": "Shrine of the Storm",
+            "weight": 2355.63
+        },
+        {
+            "item": "Sewer Grate Girdle",
+            "link": "https://www.wowhead.com/item=160215&bonus=1637",
+            "instance": "Tol Dagor",
+            "weight": 2337.94
+        },
+        {
+            "item": "Cannoneer's Toolbelt",
+            "link": "https://www.wowhead.com/item=159434&bonus=1637",
+            "instance": "Siege of Boralus",
+            "weight": 2194.29
+        }
+    ],
+    "5": [
+        {
+            "item": "Breastplate of Twilight Decimation",
+            "link": "https://www.wowhead.com/item=174164&bonus=1637",
+            "instance": "Ny'alotha, the Waking City",
+            "weight": 13127.400000000001
+        },
+        {
+            "item": "Carapace of Pulsing Vita",
+            "link": "https://www.wowhead.com/item=174168&bonus=1637",
+            "instance": "Ny'alotha, the Waking City",
+            "weight": 13127.400000000001
+        },
+        {
+            "item": "Mechanized Plate Chasse",
+            "link": "https://www.wowhead.com/item=168979&bonus=1637",
+            "instance": "Operation: Mechagon",
+            "weight": 11416.68
+        },
+        {
+            "item": "Ashvane Warden's Cuirass",
+            "link": "https://www.wowhead.com/item=159440&bonus=1637",
+            "instance": "Tol Dagor",
+            "weight": 3908.5200000000004
+        },
+        {
+            "item": "Breastplate of Arterial Protection",
+            "link": "https://www.wowhead.com/item=159432&bonus=1637",
+            "instance": "The Underrot",
+            "weight": 3908.5200000000004
+        },
+        {
+            "item": "Desert Guardian's Breastplate",
+            "link": "https://www.wowhead.com/item=159424&bonus=1637",
+            "instance": "Temple of Sethraliss",
+            "weight": 3908.5200000000004
+        },
+        {
+            "item": "Breastplate of the Vengeful",
+            "link": "https://www.wowhead.com/item=159448&bonus=1637",
+            "instance": "Waycrest Manor",
+            "weight": 3908.5200000000004
+        },
+        {
+            "item": "Harpooner's Plate Cuirass",
+            "link": "https://www.wowhead.com/item=159416&bonus=1637",
+            "instance": "Siege of Boralus",
+            "weight": 3908.5200000000004
+        },
+        {
+            "item": "Chestguard of the Deep Denizen",
+            "link": "https://www.wowhead.com/item=159408&bonus=1637",
+            "instance": "Shrine of the Storm",
+            "weight": 3908.5200000000004
+        }
+    ],
+    "3": [
+        {
+            "item": "Pauldrons of Infinite Darkness",
+            "link": "https://www.wowhead.com/item=174166&bonus=1637",
+            "instance": "Ny'alotha, the Waking City",
+            "weight": 10807.83
+        },
+        {
+            "item": "Writhing Spaulders of Madness",
+            "link": "https://www.wowhead.com/item=174165&bonus=1637",
+            "instance": "Ny'alotha, the Waking City",
+            "weight": 9845.550000000001
+        },
+        {
+            "item": "Tank Buster Pauldrons",
+            "link": "https://www.wowhead.com/item=169075&bonus=1637",
+            "instance": "Operation: Mechagon",
+            "weight": 8562.51
+        },
+        {
+            "item": "Pauldrons of the Great Unifier",
+            "link": "https://www.wowhead.com/item=159423&bonus=1637",
+            "instance": "Kings' Rest",
+            "weight": 2931.3900000000003
+        },
+        {
+            "item": "C'thraxxi Binders Pauldrons",
+            "link": "https://www.wowhead.com/item=159439&bonus=1637",
+            "instance": "Temple of Sethraliss",
+            "weight": 2931.3900000000003
+        },
+        {
+            "item": "Lockjaw Shoulderplate",
+            "link": "https://www.wowhead.com/item=159407&bonus=1637",
+            "instance": "Freehold",
+            "weight": 2931.3900000000003
+        },
+        {
+            "item": "Pauldrons of the Horned Horror",
+            "link": "https://www.wowhead.com/item=159455&bonus=1637",
+            "instance": "Waycrest Manor",
+            "weight": 2931.3900000000003
+        },
+        {
+            "item": "Kraken Shell Pauldrons",
+            "link": "https://www.wowhead.com/item=159431&bonus=1637",
+            "instance": "Siege of Boralus",
+            "weight": 2931.3900000000003
+        }
+    ],
+    "17": [
+        {
+            "item": "Devastation's Hour",
+            "link": "https://www.wowhead.com/item=172187&bonus=1637",
+            "instance": "Ny'alotha, the Waking City",
+            "weight": 9390.740000000002
+        },
+        {
+            "item": "Jeweled Sharksplitter",
+            "link": "https://www.wowhead.com/item=159634&bonus=1637",
+            "instance": "Freehold",
+            "weight": 3924.4200000000005
+        },
+        {
+            "item": "Geti'ikku, Cut of Death",
+            "link": "https://www.wowhead.com/item=159644&bonus=1637",
+            "instance": "Kings' Rest",
+            "weight": 2055.2400000000002
+        }
+    ]
+}

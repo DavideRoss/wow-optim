@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><wowhead><item id="159334"><name><![CDATA[Flashpowder Hood]]></name><level>465</level><quality id="4">Epic</quality><class id="4"><![CDATA[Armor]]></class><subclass id="2"><![CDATA[Leather Armor]]></subclass><icon displayId="182504">inv_helm_leather_kultirasdungeon_c_01</icon><inventorySlot id="1">Head</inventorySlot><htmlTooltip><![CDATA[<table><tr><td><!--nstart--><b class="q4">Flashpowder Hood</b><!--nend--><!--ndstart--><br /><span><span style="color: #00FF00">Relinquished</span> <span style="color: #00FF00">Warforged</span> <span style="color: #00FF00">Titanforged</span></span><!--ndend--><span class="q"><br>Item Level <!--ilvl-->465</span><br /><!--bo-->Binds when picked up<table width="100%"><tr><td>Head</td><th><!--scstart4:2--><span class="q1">Leather</span><!--scend--></th></tr></table><span><!--amr-->458 Armor</span><br><span><!--stat73-->+1,316 [Agility or Intellect]</span><br><span><!--stat7-->+2,646 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100<br /><br>
+<span class="q">Active Azerite Powers (0/5): </span>
+<table><tbody>
+        <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0"><a href="https://www.wowhead.com/spell=263978/azerite-empowered">Azerite Empowered</a> is available.</td>
+        </tr>
+        </tbody></table>
+<br>
+</td></tr></table><table><tr><td><!--itemEffects:0-->Requires Level <!--rlvl-->120<div class="whtt-extra whtt-droppedby">Dropped by: Overseer Korgus</div><div class="whtt-extra whtt-dropchance">Drop Chance: 4.10%</div></td></tr></table>]]></htmlTooltip><json><![CDATA["appearances":{"0":[182504,""],"1":[182506,""],"3":[182507,""]},"armor":138,"bonustrees":[1514,1530],"classs":4,"displayid":182504,"flags2":24576,"id":159334,"level":300,"name":"Flashpowder Hood","quality":3,"reqlevel":120,"slot":1,"slotbak":1,"source":[2,5],"sourcemore":[{"bd":1,"n":"Overseer Korgus","t":1,"ti":127503,"z":9327},{"n":"Thaumaturge Vashreen","t":1,"ti":149045}],"specs":[270,105,261,269,102,260,268,259,103,104,577,581],"subclass":2]]></json><jsonEquip><![CDATA["agi":1316,"agiint":1316,"appearances":{"0":[182504,""],"1":[182506,""],"3":[182507,""]},"armor":458,"displayid":182504,"dura":100,"int":1316,"reqlevel":120,"slotbak":1,"sta":2646]]></jsonEquip><link>https://www.wowhead.com/item=159334</link></item></wowhead>

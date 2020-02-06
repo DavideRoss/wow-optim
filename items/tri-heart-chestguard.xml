@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><wowhead><item id="159362"><name><![CDATA[Tri-Heart Chestguard]]></name><level>465</level><quality id="4">Epic</quality><class id="4"><![CDATA[Armor]]></class><subclass id="3"><![CDATA[Mail Armor]]></subclass><icon displayId="169714">inv_chest_mail_kultirasdungeon_c_01</icon><inventorySlot id="5">Chest</inventorySlot><htmlTooltip><![CDATA[<table><tr><td><!--nstart--><b class="q4">Tri-Heart Chestguard</b><!--nend--><!--ndstart--><br /><span><span style="color: #00FF00">Relinquished</span> <span style="color: #00FF00">Warforged</span> <span style="color: #00FF00">Titanforged</span></span><!--ndend--><span class="q"><br>Item Level <!--ilvl-->465</span><br /><!--bo-->Binds when picked up<table width="100%"><tr><td>Chest</td><th><!--scstart4:3--><span class="q1">Mail</span><!--scend--></th></tr></table><span><!--amr-->826 Armor</span><br><span><!--stat73-->+1,316 [Agility or Intellect]</span><br><span><!--stat7-->+2,646 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 165 / 165<br /><br>
+<span class="q">Active Azerite Powers (0/5): </span>
+<table><tbody>
+        <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0"><a href="https://www.wowhead.com/spell=263978/azerite-empowered">Azerite Empowered</a> is available.</td>
+        </tr>
+        </tbody></table>
+<br>
+</td></tr></table><table><tr><td><!--itemEffects:0-->Requires Level <!--rlvl-->120<div class="whtt-extra whtt-droppedby">Dropped by: Viq'Goth</div></td></tr></table>]]></htmlTooltip><json><![CDATA["appearances":{"3":[169714,""]},"armor":249,"bonustrees":[1514,1530],"classs":4,"displayid":169714,"flags2":24576,"id":159362,"level":300,"name":"Tri-Heart Chestguard","quality":3,"reqlevel":120,"slot":5,"slotbak":5,"source":[2,5],"sourcemore":[{"z":9354},{"n":"Thaumaturge Vashreen","t":1,"ti":149045}],"specs":[253,262,255,264,254,263],"subclass":3]]></json><jsonEquip><![CDATA["agi":1316,"agiint":1316,"appearances":{"3":[169714,""]},"armor":826,"displayid":169714,"dura":165,"int":1316,"reqlevel":120,"slotbak":5,"sta":2646]]></jsonEquip><link>https://www.wowhead.com/item=159362</link></item></wowhead>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><wowhead><item id="159440"><name><![CDATA[Ashvane Warden's Cuirass]]></name><level>465</level><quality id="4">Epic</quality><class id="4"><![CDATA[Armor]]></class><subclass id="4"><![CDATA[Plate Armor]]></subclass><icon displayId="170436">inv_chest_plate_kultirasdungeon_c_01</icon><inventorySlot id="5">Chest</inventorySlot><htmlTooltip><![CDATA[<table><tr><td><!--nstart--><b class="q4">Ashvane Warden's Cuirass</b><!--nend--><!--ndstart--><br /><span><span style="color: #00FF00">Relinquished</span> <span style="color: #00FF00">Warforged</span> <span style="color: #00FF00">Titanforged</span></span><!--ndend--><span class="q"><br>Item Level <!--ilvl-->465</span><br /><!--bo-->Binds when picked up<table width="100%"><tr><td>Chest</td><th><!--scstart4:4--><span class="q1">Plate</span><!--scend--></th></tr></table><span><!--amr-->1237 Armor</span><br><span><!--stat74-->+1,316 [Strength or Intellect]</span><br><span><!--stat7-->+2,646 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 165 / 165<br /><br>
+<span class="q">Active Azerite Powers (0/5): </span>
+<table><tbody>
+        <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0"><a href="https://www.wowhead.com/spell=263978/azerite-empowered">Azerite Empowered</a> is available.</td>
+        </tr>
+        </tbody></table>
+<br>
+</td></tr></table><table><tr><td><!--itemEffects:0-->Requires Level <!--rlvl-->120<div class="whtt-extra whtt-droppedby">Dropped by: Overseer Korgus</div><div class="whtt-extra whtt-dropchance">Drop Chance: 4.94%</div></td></tr></table>]]></htmlTooltip><json><![CDATA["appearances":{"0":[170436,""],"1":[167365,""],"3":[170434,""]},"armor":374,"bonustrees":[1514,1530],"classs":4,"displayid":170436,"flags2":24576,"id":159440,"level":300,"name":"Ashvane Warden's Cuirass","quality":3,"reqlevel":120,"slot":5,"slotbak":5,"source":[2,5],"sourcemore":[{"bd":1,"n":"Overseer Korgus","t":1,"ti":127503,"z":9327},{"n":"Thaumaturge Vashreen","t":1,"ti":149045}],"specs":[73,65,66,250,251,252,70,71,72],"subclass":4]]></json><jsonEquip><![CDATA["appearances":{"0":[170436,""],"1":[167365,""],"3":[170434,""]},"armor":1237,"displayid":170436,"dura":165,"int":1316,"reqlevel":120,"slotbak":5,"sta":2646,"str":1316,"strint":1316]]></jsonEquip><link>https://www.wowhead.com/item=159440</link></item></wowhead>

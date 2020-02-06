@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><wowhead><item id="174118"><name><![CDATA[Visage of Nightmarish Machinations]]></name><level>605</level><quality id="4">Epic</quality><class id="4"><![CDATA[Armor]]></class><subclass id="1"><![CDATA[Cloth Armor]]></subclass><icon displayId="181384">inv_helm_cloth_nzothraid_d_01</icon><inventorySlot id="1">Head</inventorySlot><htmlTooltip><![CDATA[<table><tr><td><!--nstart--><b class="q4">Visage of Nightmarish Machinations</b><!--nend--><!--ndstart--><br /><span><span style="color: #00FF00">Relinquished</span> <span style="color: #00FF00">Warforged</span> <span style="color: #00FF00">Titanforged</span></span><!--ndend--><span class="q"><br>Item Level <!--ilvl-->605</span><br /><!--bo-->Binds when picked up<table width="100%"><tr><td>Head</td><th><!--scstart4:1--><span class="q1">Cloth</span><!--scend--></th></tr></table><span><!--amr-->888 Armor</span><br><span><!--stat5-->+4,852 Intellect</span><br><span><!--stat7-->+10,277 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100<br /><br>
+<span class="q">Active Azerite Powers (0/5): </span>
+<table><tbody>
+        <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0"><a href="https://www.wowhead.com/spell=263978/azerite-empowered">Azerite Empowered</a> is available.</td>
+        </tr>
+        </tbody></table>
+<br>
+</td></tr></table><table><tr><td><!--itemEffects:0-->Requires Level <!--rlvl-->120<div class="whtt-extra whtt-droppedby">Dropped by: N'Zoth the Corruptor</div></td></tr></table>]]></htmlTooltip><json><![CDATA["appearances":{"0":[181384,""],"1":[181385,""],"3":[181464,"inv_helm_cloth_nzothraidmythic_d_01"],"4":[181383,""]},"armor":222,"bonustrees":[2838,2767],"classs":4,"displayid":181384,"flags2":24576,"id":174118,"level":440,"name":"Visage of Nightmarish Machinations","quality":4,"reqlevel":120,"slot":1,"slotbak":1,"source":[2],"sourcemore":[{"bd":1,"n":"N'Zoth the Corruptor","t":1,"ti":158041,"z":10522}],"specs":[64,256,63,62,257,265,258,266,267],"subclass":1]]></json><jsonEquip><![CDATA["appearances":{"0":[181384,""],"1":[181385,""],"3":[181464,"inv_helm_cloth_nzothraidmythic_d_01"],"4":[181383,""]},"armor":888,"displayid":181384,"dura":100,"int":4852,"reqlevel":120,"slotbak":1,"sta":10277]]></jsonEquip><link>https://www.wowhead.com/item=174118</link></item></wowhead>

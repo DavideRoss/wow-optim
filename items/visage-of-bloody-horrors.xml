@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><wowhead><item id="159381"><name><![CDATA[Visage of Bloody Horrors]]></name><level>465</level><quality id="4">Epic</quality><class id="4"><![CDATA[Armor]]></class><subclass id="3"><![CDATA[Mail Armor]]></subclass><icon displayId="182314">inv_helm_mail_zandalardungeon_c_01</icon><inventorySlot id="1">Head</inventorySlot><htmlTooltip><![CDATA[<table><tr><td><!--nstart--><b class="q4">Visage of Bloody Horrors</b><!--nend--><!--ndstart--><br /><span><span style="color: #00FF00">Relinquished</span> <span style="color: #00FF00">Warforged</span> <span style="color: #00FF00">Titanforged</span></span><!--ndend--><span class="q"><br>Item Level <!--ilvl-->465</span><br /><!--bo-->Binds when picked up<table width="100%"><tr><td>Head</td><th><!--scstart4:3--><span class="q1">Mail</span><!--scend--></th></tr></table><span><!--amr-->671 Armor</span><br><span><!--stat73-->+1,316 [Agility or Intellect]</span><br><span><!--stat7-->+2,646 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100<br /><br>
+<span class="q">Active Azerite Powers (0/5): </span>
+<table><tbody>
+        <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0"><a href="https://www.wowhead.com/spell=263978/azerite-empowered">Azerite Empowered</a> is available.</td>
+        </tr>
+        </tbody></table>
+<br>
+</td></tr></table><table><tr><td><!--itemEffects:0-->Requires Level <!--rlvl-->120<div class="whtt-extra whtt-droppedby">Dropped by: Unbound Abomination</div><div class="whtt-extra whtt-dropchance">Drop Chance: 3.81%</div></td></tr></table>]]></htmlTooltip><json><![CDATA["appearances":{"0":[182314,""],"1":[182312,""],"3":[182315,""]},"armor":203,"bonustrees":[1514,1530],"classs":4,"displayid":182314,"flags2":24576,"id":159381,"level":300,"name":"Visage of Bloody Horrors","quality":3,"reqlevel":120,"slot":1,"slotbak":1,"source":[2,5],"sourcemore":[{"bd":1,"n":"Unbound Abomination","t":1,"ti":133007,"z":9391},{"n":"Thaumaturge Vashreen","t":1,"ti":149045}],"specs":[253,262,255,264,254,263],"subclass":3]]></json><jsonEquip><![CDATA["agi":1316,"agiint":1316,"appearances":{"0":[182314,""],"1":[182312,""],"3":[182315,""]},"armor":671,"displayid":182314,"dura":100,"int":1316,"reqlevel":120,"slotbak":1,"sta":2646]]></jsonEquip><link>https://www.wowhead.com/item=159381</link></item></wowhead>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><wowhead><item id="174148"><name><![CDATA[Helm of Deep Despair]]></name><level>595</level><quality id="4">Epic</quality><class id="4"><![CDATA[Armor]]></class><subclass id="3"><![CDATA[Mail Armor]]></subclass><icon displayId="181419">inv_helm_mail_nzothraid_d_01</icon><inventorySlot id="1">Head</inventorySlot><htmlTooltip><![CDATA[<table><tr><td><!--nstart--><b class="q4">Helm of Deep Despair</b><!--nend--><!--ndstart--><br /><span><span style="color: #00FF00">Relinquished</span> <span style="color: #00FF00">Warforged</span> <span style="color: #00FF00">Titanforged</span></span><!--ndend--><span class="q"><br>Item Level <!--ilvl-->595</span><br /><!--bo-->Binds when picked up<table width="100%"><tr><td>Head</td><th><!--scstart4:3--><span class="q1">Mail</span><!--scend--></th></tr></table><span><!--amr-->2017 Armor</span><br><span><!--stat73-->+4,420 [Agility or Intellect]</span><br><span><!--stat7-->+9,363 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--e--><!--ps--><br>Durability 100 / 100<br /><br>
+<span class="q">Active Azerite Powers (0/5): </span>
+<table><tbody>
+        <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0">A new power is available.</td>
+        </tr>
+                <tr>
+            <td class="q0" style="width:1px">-&nbsp;</td>
+            <td class="q0"><a href="https://www.wowhead.com/spell=263978/azerite-empowered">Azerite Empowered</a> is available.</td>
+        </tr>
+        </tbody></table>
+<br>
+</td></tr></table><table><tr><td><!--itemEffects:0-->Requires Level <!--rlvl-->120</td></tr></table>]]></htmlTooltip><json><![CDATA["appearances":{"0":[181419,""],"1":[181418,""],"3":[181417,"inv_helm_mail_nzothraidmythic_d_01"],"4":[181421,""]},"armor":512,"bonustrees":[2748,2767],"classs":4,"displayid":181419,"flags2":24576,"id":174148,"level":430,"name":"Helm of Deep Despair","quality":4,"reqlevel":120,"slot":1,"slotbak":1,"source":[2],"sourcemore":[{"z":10522}],"specs":[253,262,255,264,254,263],"subclass":3]]></json><jsonEquip><![CDATA["agi":4420,"agiint":4420,"appearances":{"0":[181419,""],"1":[181418,""],"3":[181417,"inv_helm_mail_nzothraidmythic_d_01"],"4":[181421,""]},"armor":2017,"displayid":181419,"dura":100,"int":4420,"reqlevel":120,"slotbak":1,"sta":9363]]></jsonEquip><link>https://www.wowhead.com/item=174148</link></item></wowhead>
